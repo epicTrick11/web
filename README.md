@@ -1,1 +1,1 @@
-# web
+# INstaWiz Official Website code
